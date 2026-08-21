@@ -1,0 +1,11 @@
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\bin\Debug\atividade imagens.exe.config
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\bin\Debug\atividade imagens.exe
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\bin\Debug\atividade imagens.pdb
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\obj\Debug\atividade imagens.csproj.AssemblyReference.cache
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\obj\Debug\atividade imagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\obj\Debug\atividade_imagens.Form1.resources
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\obj\Debug\atividade_imagens.Properties.Resources.resources
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\obj\Debug\atividade imagens.csproj.GenerateResource.cache
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\obj\Debug\atividade imagens.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\obj\Debug\atividade imagens.exe
+C:\Users\etec\source\repos\atividade imagens\atividade imagens\obj\Debug\atividade imagens.pdb
