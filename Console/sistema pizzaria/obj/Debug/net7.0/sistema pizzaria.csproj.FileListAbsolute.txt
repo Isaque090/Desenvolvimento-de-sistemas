@@ -1,0 +1,14 @@
+C:\Users\isaqu\Desktop\sistema pizzaria\obj\Debug\net7.0\sistema pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\Desktop\sistema pizzaria\obj\Debug\net7.0\sistema pizzaria.AssemblyInfoInputs.cache
+C:\Users\isaqu\Desktop\sistema pizzaria\obj\Debug\net7.0\sistema pizzaria.AssemblyInfo.cs
+C:\Users\isaqu\Desktop\sistema pizzaria\obj\Debug\net7.0\sistema pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\Desktop\sistema pizzaria\bin\Debug\net7.0\sistema pizzaria.exe
+C:\Users\isaqu\Desktop\sistema pizzaria\bin\Debug\net7.0\sistema pizzaria.deps.json
+C:\Users\isaqu\Desktop\sistema pizzaria\bin\Debug\net7.0\sistema pizzaria.runtimeconfig.json
+C:\Users\isaqu\Desktop\sistema pizzaria\bin\Debug\net7.0\sistema pizzaria.dll
+C:\Users\isaqu\Desktop\sistema pizzaria\bin\Debug\net7.0\sistema pizzaria.pdb
+C:\Users\isaqu\Desktop\sistema pizzaria\obj\Debug\net7.0\sistema pizzaria.dll
+C:\Users\isaqu\Desktop\sistema pizzaria\obj\Debug\net7.0\refint\sistema pizzaria.dll
+C:\Users\isaqu\Desktop\sistema pizzaria\obj\Debug\net7.0\sistema pizzaria.pdb
+C:\Users\isaqu\Desktop\sistema pizzaria\obj\Debug\net7.0\sistema pizzaria.genruntimeconfig.cache
+C:\Users\isaqu\Desktop\sistema pizzaria\obj\Debug\net7.0\ref\sistema pizzaria.dll
