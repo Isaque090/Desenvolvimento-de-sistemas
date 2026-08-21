@@ -1,0 +1,11 @@
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formPrincipal.resources
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\etec\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
