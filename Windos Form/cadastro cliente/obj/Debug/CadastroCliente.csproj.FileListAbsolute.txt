@@ -1,0 +1,9 @@
+C:\Users\isaqu\Downloads\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\isaqu\Downloads\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\isaqu\Downloads\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.AssemblyReference.cache
+C:\Users\isaqu\Downloads\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\Downloads\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\isaqu\Downloads\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
+C:\Users\isaqu\Downloads\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmCadastroCliente.resources
+C:\Users\isaqu\Downloads\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.GenerateResource.cache
+C:\Users\isaqu\Downloads\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Properties.Resources.resources
