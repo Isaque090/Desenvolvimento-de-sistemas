@@ -1,0 +1,17 @@
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.AssemblyReference.cache
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.frmCliente.resources
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.frmFornecedor.resources
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.frmPrincipal.resources
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.frmProduto.resources
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.frmUsuario.resources
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.cache
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\bin\Debug\dbEstoque.mdf
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\bin\Debug\dbEstoque_log.ldf
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+C:\Users\isaqu\Downloads\ProjetoEstoque_corrigido_v3 (1)\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe.config
